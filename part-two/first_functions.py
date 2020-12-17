@@ -12,14 +12,15 @@ def afc_east():
     print("MIA")
     print("NYJ")
 
+if __name__ == "__main__":
+    
+    # Change this variable's value to print the different division
+    division = "east"
 
-# Change this variable's value to print the different division
-division = "east"
-
-if division == "east":
-    afc_east()
-elif division == "west":
-    afc_west()
-else:
-    afc_east()
-    afc_west()
+    if division == "east":
+        afc_east()
+    elif division == "west":
+        afc_west()
+    else:
+        afc_east()
+        afc_west()
