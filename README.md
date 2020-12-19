@@ -20,3 +20,7 @@ Repository designed to be entrypoint to Programming and Data Science alongside s
 - Execute: `python3 first_functions.py`
 - Write the functions required in `basic_functions.py`
 - Execute: `python3 basic_functions.py`
+
+3) Part Three: Arguments and Loops
+- Change directory to part-three: `cd part-three`
+- 
